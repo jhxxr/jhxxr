@@ -1,3 +1,8 @@
+![:jhxxr](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
+
+
+
+
 - 👋 Hi, I’m xr
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
