@@ -1,5 +1,3 @@
-[![jhxxr's github activity graph](https://activity-graph.herokuapp.com/graph?username=jhxxr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 - 👋 Hi, I’m xr
 - 👀 I’m interested in ...
@@ -7,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 2471717907@qq.com   
 
-
+[![jhxxr's github activity graph](https://activity-graph.herokuapp.com/graph?username=jhxxr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jhxxr&show_icons=true&theme=dark&count_private=true)
 
