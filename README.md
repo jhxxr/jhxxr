@@ -1,3 +1,5 @@
+[![jhxxr's github activity graph](https://activity-graph.herokuapp.com/graph?username=jhxxr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 - 👋 Hi, I’m xr
 - 👀 I’m interested in ...
