@@ -1,7 +1,3 @@
-![:jhxxr](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
-
-
-
 
 - 👋 Hi, I’m xr
 - 👀 I’m interested in ...
@@ -14,3 +10,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jhxxr&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhxxr&theme=dark&layout=compact)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jhxxr&left_color=green&right_color=red)
