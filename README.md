@@ -16,7 +16,7 @@
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=jhxxr&color=green)
 [![个人博客](https://img.shields.io/badge/-个人博客（zy.jhx.asia）-c14438?style=flat-square&logo=B&logoColor=white)](https://zy.jhx.asia/)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/jhxxr)
-[![Gmail Badge](https://img.shields.io/badge/gmail-2471717907@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2471717907@qq.com)](mailto:2471717907@qq.com)
+[![QQemail Badge](https://img.shields.io/badge/gmail-2471717907@qq.com-Green?style=flat-square&logo=QQemail&logoColor=white&link=mailto:2471717907@qq.com)](mailto:2471717907@qq.com)
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=jhxxr&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
