@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jhxxr&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently studying in **Changzhou**.
-- 🌱 I’m currently learning **react** and **python**.
+- 🌱 I’m currently learning **JavaScript** and **python**.
 - 💬 I don't know much now, so I'm learning.
 - ⚡ Fun fact: 
   - Write technical and life articles.
