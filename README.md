@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================
 
 * ✉️  You can contact me at [jhx2471717907@gmail.com](mailto:jhx2471717907@gmail.com)
-* 🚀  I'm currently working on [星染导航](http://link.jhxjhx.live/)
+* 🚀  I'm currently working on [jhxjhx.yop](http://jhxjhx.top/)
 * 🧠  I'm learning STM32，Python，Node.js
 * 🤝  I'm open to collaborating on interesting projects
 
