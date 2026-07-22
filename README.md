@@ -56,7 +56,7 @@ currently_building:
   - jhxjhx.top
 
 
-* 🌐 个人博客：[jhxjhx.top](https://www.jhxjhx.top/)
+* 🌐 个人博客：[星染Blog](https://blog.jhxjhx.top/)
 * 🧠 正在学习 **STM32、Python 和 Node.js**
 * 🛠️ 喜欢折腾 **Web、嵌入式、服务器与 AI 应用**
 * 🚀 热衷于将想法转化为真正可以使用的项目
