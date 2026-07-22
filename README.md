@@ -61,7 +61,7 @@ currently_building:
 * 🛠️ 喜欢折腾 **Web、嵌入式、服务器与 AI 应用**
 * 🚀 热衷于将想法转化为真正可以使用的项目
 * 🤝 欢迎参与开源协作以及有趣的项目
-* 📮 联系邮箱：[jhx2471717907@gmail.com](mailto:jhx2471717907@gmail.com)
+* 📮 联系邮箱：[jhx@jhxjhx.top](mailto:jhx@jhxjhx.top)
 
 ---
 
