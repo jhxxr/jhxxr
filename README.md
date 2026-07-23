@@ -34,7 +34,6 @@
 
 ## 👨‍💻 About Me
 
-```yaml
 name: 星染
 username: jhxxr
 location: China
@@ -57,7 +56,7 @@ currently_building:
   - Developer Tools
   - Open Source Projects
   - Personal Website
-```
+
 
 * 🤖 正在学习 **人工智能、机器学习与大语言模型**
 * 🌐 专注于 **Web 开发、AI 应用与服务器技术**
